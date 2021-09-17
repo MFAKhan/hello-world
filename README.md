@@ -1,6 +1,12 @@
 # hello-world
-First github respository
-The first edit to test commit changes!
 
+### First Commit
+First github respository. The first edit to test commit changes!
+
+### Second Commit
 The second edit
-Second edit continued
+
+Second edit continued....
+
+### Third Commit
+Added headers etc.
